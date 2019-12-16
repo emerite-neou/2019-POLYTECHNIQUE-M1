@@ -1,4 +1,4 @@
-# Create an Accoun
+# Create an Account
 
 1. Go to the following [https://databricks.com/try-databricks](https://databricks.com/try-databricks).
 2. Create an community edition account (right panel).
